@@ -113,7 +113,7 @@ Now that you know how geospatial datasets are stored on your computer, let’s s
 
 The QGIS Desktop interface is a little cluttered by default, so let's close a few panels so we just see the Layers panel and Map Window.
 
-2. Locate the *Browser* panel, and click the small 'X' button in the upper-right corner to close the panel (see figure below).
+3. Locate the *Browser* panel, and click the small 'X' button in the upper-right corner to close the panel (see figure below).
 2. Close the *Shortest path* panel using the same method.
 
 ![Close Browser Panel Button](figures/Close_Browser_Panel_Button.png "Close Browser Panel Button")
@@ -176,11 +176,11 @@ Now you will learn how to add Raster data to QGIS Desktop.
 3. Whereas QGIS used OGR to open vector data files, here it uses another FOSS4G software library called GDAL. GDAL is used for reading and writing raster datasets. 
 4. The window’s raster data filter is set to All Files by default, so you see the entire contents of the folder (Figure below).
 
-![[GDAL] All Files](figures/[GDAL]_All_Files.png "[GDAL] All Files")
+![[GDAL] All Files](figures/GDAL_All_Files.png "[GDAL] All Files")
 
 5. Set the filter to JPEG2000. (Also, note how many formats it will read!) In GIS there are many more raster file types than vector. Once you’ve set the filter you’ll see the one dataset: Oahu_Landsat_15m.jp2 (shown in figure below).
 
-![[GDAL] JPEG 2000](figures/[GDAL]_ERDAS_JPEG_2000.png "[GDAL] JPEG 2000")
+![[GDAL] JPEG 2000](figures/GDAL_ERDAS_JPEG_2000.png "[GDAL] JPEG 2000")
 
 6. Select the Oahu_Landsat_15m.jp2 raster dataset and click Open.
 7. This dataset only covers a portion of Hawaii, just the island of Oahu. Right-click on the Oahu_Landsat_15m dataset in the layers panel and choose Zoom to Layer to zoom to the spatial extent of this raster (shown in figure below).
