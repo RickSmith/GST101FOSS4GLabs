@@ -42,7 +42,7 @@ lacking, or woefully out of date.  Therefore, with the support of the Department
 of Labor, we decided to create the world's first complete FOSS4G curriculum available
 for everyone to use, for free.
 
-*We do not want this curriculum to die!*  Therefore, the [Spatial {Query} Lab at
+*We do not want this curriculum to die!*  Therefore, the [ICA-OSGeo][1] [Spatial {Query} Lab at
 Texas A&M University - Corpus Christi][2] is spearheading the continued development
 and updating of these labs.
 
@@ -88,10 +88,10 @@ An attribution block is next as we always want to give proper attribution.
 + This Markdown document contains the attribution block: 
 [Attribution Block for Lab Documents.md][5].
 
-An Introduction, Objective, and Video Statement are listed next.
+An Introduction and Objective are listed next.
 
-+ These three sections are always size Header 3 `### Introduction` and are always
-sections 1, 2, and 3 respectively.
++ These two sections are always size Header 3 `### Introduction` and are always
+sections 1 and 2, respectively.
 
 The lab Tasks (logical blocks of content) are next.
 
