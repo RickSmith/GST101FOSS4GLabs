@@ -49,7 +49,7 @@ There are hundreds of possible projections from which to choose.  Some distort l
 + Projection center - Can the projection be centered easily on the area being mapped?
 + Familiarity - Is the appearance of the map recognizable to the map reader or will it detract from the map’s purpose?
 
-###	Task 1 - Setting Map Projections and Coordinate Systems in QGIS
+### Task 1 - Setting Map Projections and Coordinate Systems in QGIS
 
 In this task, you will explore the effects of various projections on the characteristics of a map.  We will focus primarily on shape and area distortions.  We will examine projections useful for mapping on the global scale.
 
